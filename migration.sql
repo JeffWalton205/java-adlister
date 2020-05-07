@@ -1,5 +1,5 @@
 USE adlister_db;
-
+-- 1
 DROP TABLE IF EXISTS ads;
 DROP TABLE IF EXISTS users;
 
